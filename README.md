@@ -9,15 +9,15 @@
       <li>Join Channel Forced
       <li>Support From 9 Country
          <ul>
-         <li>USA 🇺🇸
-         <li>Iran 🇮🇷
-         <li>France 🇫🇷
-         <li>UEA 🇦🇪 
-         <li>United Kingdom 🇬🇧
-         <li>Germany 🇩🇪
-         <li>Turkiye 🇹🇷
-         <li>Russia 🇷🇺
-         <li>Canada 🇨🇦
+         <li>USA 
+         <li>Iran
+         <li>France 
+         <li>UEA 
+         <li>United Kingdom
+         <li>Germany 
+         <li>Turkiye 
+         <li>Russia 
+         <li>Canada 
          </ul>
       <li>Normal Information
          <ul>
